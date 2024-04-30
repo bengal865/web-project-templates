@@ -14,7 +14,7 @@ In this project, write a script that:
 
 ## Helpful Resources
 
- - About [HTML comments](https://www.w3schools.com)
+ - About [HTML comments](https://www.w3schools.com/html/html_comments.asp)
  - Resource 2
  
 ## Directions
