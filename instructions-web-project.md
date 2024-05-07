@@ -14,7 +14,7 @@ Your finished project should look similar to this example:
 
 ## Specifications
 
-In this project, build a web page that:
+Build a web page that meets the following specifications:
 
  - Spec 1
  - Spec 2
