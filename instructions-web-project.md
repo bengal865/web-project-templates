@@ -4,6 +4,12 @@
  - Save your project files to a new GitHub repo named: ***test123-web***
  - Copy the web address (URL) that points to your repo and submit it on Google Classroom
 
+## Sample Output
+
+Your finished project should look similar to this example:
+
+![Desert landscape in Mexico](desert-mexico.png "Mexican Desert")
+
 ## Overview
 
 In this project, build a web page that:
