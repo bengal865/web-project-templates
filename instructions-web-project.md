@@ -12,10 +12,9 @@ Your finished project should look similar to this example:
 
 *Desert in Mexico*
 
-## Overview
+## Specifications
 
 In this project, build a web page that:
-In this project, write a script that:
 
  - Spec 1
  - Spec 2
