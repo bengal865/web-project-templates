@@ -9,7 +9,7 @@
 Your finished project should look similar to this example:
 
 ![Desert landscape in Mexico](desert-mexico.png "Mexican Desert")
-* Desert in Mexico *
+*Desert in Mexico*
 
 ## Overview
 
