@@ -2,7 +2,7 @@
 
 ## Submitting Your Work
  - Save your project files to a new GitHub repo named: ***test123-web***
- - Submit the web address (URL) that points to your repo on Google Classroom
+ - Submit on Google Classroom the web address (URL) that points to your repo 
 
 ## Sample Output
 
